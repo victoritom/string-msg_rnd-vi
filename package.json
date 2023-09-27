@@ -1,0 +1,22 @@
+{
+  "name": "string-msg_rnd-vi",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victoritom/string-msg_rnd-vi.git"
+  },
+  "author": "Victor Solarte <victoritom20049@hotmail.com>",
+  "license": "MIT",
+  "bin": {
+    "string-msg_rnd-vi": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
